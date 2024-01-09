@@ -16,4 +16,4 @@
   - 3 C's
   - Level Design
   - Sound Design and Adding Music
-  - 
+    
